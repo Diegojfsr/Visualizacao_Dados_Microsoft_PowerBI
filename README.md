@@ -10,7 +10,7 @@ Repositorio criado para documentar todo o meu passo a passo, projetos,  pesquisa
  </h5> 
 
 <h2> 🎯 Objetivo </h2>
-Desenvolver um sistema, que através de Rede Neural, a medio e longo prazo ajude os usuarios a economizar e ao mesmo tempo investir em ativos e ações que almentem seus ganhos com baixos riscos.
+A ideia aqui e começar com dicas e exercicios simples, focando em quem tem interesse em aprender Visualizacao de Dados com Microsoft PowerBI.
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
